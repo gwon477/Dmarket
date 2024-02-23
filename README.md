@@ -1,6 +1,6 @@
 
 
-<div align="center">
+
 <a href="http://dmarketmall.com/">
 <img width="100%" src="https://github.com/DKT-Kwanza/dmarket-front/assets/79887939/b5c26526-7847-4012-91d8-63fd22e8adba" alt="Dmarket 이동하기"/>
 </a>
@@ -11,7 +11,7 @@
 [![](https://img.shields.io/badge/back_release-v1.0.0-critical?style=flat&logo=github&logoColor=balck&labelColor=black&color=white)
 ](https://github.com/DKT-Kwanza/dmarket-back/releases)
 
-## 👻 Member
+## 👻 Members
 
 <table>
 <tr>
@@ -124,6 +124,7 @@
 <br>
 <br>
 
+<div align="center">
 
 > # <img src="https://github.com/DKT-Kwanza/dmarket-front/assets/79887939/f27b7118-bd4d-4be1-9a46-b4b2dec5b7a7" align=center width=90>  DmarKeT
 > ### ✨DKTechin 사원 복지를 위한 복지몰✨
