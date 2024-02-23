@@ -177,7 +177,7 @@ DmarKeT은 가장 저렴한 가격에 상품을 구입할 수 있는 기회를 �
 
 ---
 
-<img width="700px" src='https://github.com/xxng1/xxng1.github.io/assets/112960401/b8d2e649-d705-404e-86df-1719239b0ea5'  alt="BackEnd Skills" />
+<img width="900px" src='https://github.com/xxng1/xxng1.github.io/assets/112960401/b8d2e649-d705-404e-86df-1719239b0ea5'  alt="BackEnd Skills" />
 
 <br>
 <br>
@@ -186,7 +186,7 @@ DmarKeT은 가장 저렴한 가격에 상품을 구입할 수 있는 기회를 �
 
 ---
 
-<img width="700px" src='https://github.com/xxng1/xxng1.github.io/assets/112960401/fe0d9d50-98d1-4b92-aafa-66ebf9871d47'  alt="Infra"  />
+<img width="900px" src='https://github.com/xxng1/xxng1.github.io/assets/112960401/fe0d9d50-98d1-4b92-aafa-66ebf9871d47'  alt="Infra"  />
 
 <br>
 <br>
@@ -195,7 +195,7 @@ DmarKeT은 가장 저렴한 가격에 상품을 구입할 수 있는 기회를 �
 
 ---
 
-<img width="700px" src='https://github.com/xxng1/xxng1.github.io/assets/112960401/18f8eb31-a9fd-44c1-8a98-715bb6df6d4d'  alt="CI/CD" />
+<img width="900px" src='https://github.com/xxng1/xxng1.github.io/assets/112960401/18f8eb31-a9fd-44c1-8a98-715bb6df6d4d'  alt="CI/CD" />
 
 <br>
 <br>
