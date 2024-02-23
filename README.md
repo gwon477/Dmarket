@@ -122,17 +122,41 @@
 </table>
 
 # <img src="https://github.com/DKT-Kwanza/dmarket-front/assets/79887939/f27b7118-bd4d-4be1-9a46-b4b2dec5b7a7" align=left width=90>
-> Dmarket 은 가천대학교 KEA Kwanza 팀이 개발한 폐쇄몰 서비스 입니다.
->
-> 개발 기간: 2024.01 - 2024.02
-
-# DmarKeT
-
-### ✨DKTechin 사원 복지를 위한 복지몰✨
+> # DmarKeT
+>### ✨DKTechin 사원 복지를 위한 복지몰✨
 
 </div>
 
+<br>
+<br>
+
+# ⏰ 개발 기간
+
+---
+### 전체 기간 : 2023.12.27(수) - 2024.02.16(금)
+
+기획/ 분석 : 2023.12.27(수) - 2024.01.05(금)
+
+설계 : 2024.01.08(월) - 2024.01.12(금)
+
+구현 : 2024.01.15(월) - 2024.02.04(일)
+
+검증 : 2024.02.05(월) - 2024.02.15(목)
+
+종료보고 : 2024.02.16(금)
+
+
+
+
+
+<br>
+<br>
+
 ## 🗨️ About DmarKeT
+
+---
+
+Dmarket 은 가천대학교 KEA Kwanza 팀이 개발한 폐쇄몰 서비스 입니다.
 
 DmarKeT은 DKTechin 사원들의 복지를 위해 만들어졌습니다. 
 팀플이나 프로젝트 관리와 같은 업무에서 효율성을 높이고 스트레스를 줄여주어 직원들의 업무환경을 개선합니다.
@@ -143,13 +167,23 @@ DmarKeT은 사원들이 자유롭게 이용할 수 있는 플랫폼으로 설계
 DmarKeT은 가장 저렴한 가격에 상품을 구입할 수 있는 기회를 제공합니다. 
 사원들의 복지를 위해 가장 저렴한 가격에 상품을 구매 할 수 있도록 노력합니다.
 
+<br>
+<br>
+
 ## 🖥️ Service
+
+---
 
 |                                                         알림 서비스                                                          |                                                        ES 검색 구현                                                         |
 |:-----------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------:|
 | <img src='https://github.com/xxng1/xxng1.github.io/assets/112960401/4a1137be-930c-43e3-a971-06e4d9fcf867'> | <img src='https://github.com/xxng1/xxng1.github.io/assets/112960401/e9bc8993-9f1c-4662-9d4c-43ae1f99f9a9'> |
 
+<br>
+<br>
+
 ## 📦 주요 기능
+
+---
 ### USER SIDE
 ⚡️ 제품 카테고리, 필터 순 정렬
 
@@ -171,6 +205,9 @@ DmarKeT은 가장 저렴한 가격에 상품을 구입할 수 있는 기회를 �
 ⚡️ 상품 및 주문/배송 관리
 
 ⚡️ 공지사항 관리
+
+<br>
+<br>
 
 ## 🛠️ 주요 의존성 패키지 버전
 
@@ -206,6 +243,9 @@ DmarKeT은 가장 저렴한 가격에 상품을 구입할 수 있는 기회를 �
 
 #### Other Plugins
 - **spring-restdocs-asciidoctor**: 3.3.2 by org.springframework.restdocs
+
+<br>
+<br>
 
 ## 📁 Project Structure
 
@@ -249,25 +289,51 @@ DmarKeT은 가장 저렴한 가격에 상품을 구입할 수 있는 기회를 �
  ┃ ┃ ┃ ┃ ┣ 📂integrationTest
 ```
 
+<br>
+<br>
+
 ## 📚 Skills
+
+---
 
 <img width="500px" src='https://github.com/xxng1/xxng1.github.io/assets/112960401/b8d2e649-d705-404e-86df-1719239b0ea5'  alt="BackEnd Skills"/>
 
+<br>
+<br>
+
 ## ⚙️ Infra
+
+---
 
 <img width="600px" src='https://github.com/xxng1/xxng1.github.io/assets/112960401/fe0d9d50-98d1-4b92-aafa-66ebf9871d47'  alt="Infra"/>
 
+<br>
+<br>
+
 ## 🪄 CI/CD
 
+---
+
 <img width="600px" src='https://github.com/xxng1/xxng1.github.io/assets/112960401/18f8eb31-a9fd-44c1-8a98-715bb6df6d4d'  alt="CI/CD"/>
+
+<br>
+<br>
+
 
 ## 🏆 Ground Rules
 
 <img width="600px" src='https://github.com/xxng1/xxng1.github.io/assets/112960401/23a7f685-d7cc-4048-9558-95abbb0b3cc5'  alt="Ground Rules"/>
 
+<br>
+<br>
+
+
 ## 🤝 Team Collaboration Tool
 
 <img width="600px" src='https://github.com/xxng1/xxng1.github.io/assets/112960401/61ed758c-9ceb-44a4-b076-33b09b41a530'  alt="Collaboration Tools"/>
+
+<br>
+<br>
 
 
 ## 📄 라이선스
