@@ -342,13 +342,6 @@ DmarKeT은 가장 저렴한 가격에 상품을 구입할 수 있는 기회를 �
 <br>
 
 
-## 🏆 Ground Rules
-
-<img width="600px" src='https://github.com/xxng1/xxng1.github.io/assets/112960401/23a7f685-d7cc-4048-9558-95abbb0b3cc5'  alt="Ground Rules"/>
-
-<br>
-<br>
-
 
 ## 🤝 Team Collaboration Tool
 
